@@ -1,0 +1,11 @@
+type	number
+Plants	230
+Animal	296
+Infectious disease	445
+Human genomics	359
+Microbiology and microbiome	1071
+Cancer research	122
+Environment	174
+Clinical research	430
+Transcriptome	179
+Population genomics	18

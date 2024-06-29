@@ -1,0 +1,11 @@
+type	number
+Genetics Heredity	6366
+Biochemistry Molecular Biology	4967
+Science Technology Other Topics	4072
+Microbiology	2882
+Infectious Diseases	2313
+Chemistry	1493
+Environmental Sciences Ecology	1138
+Evolutionary Biology	995
+Biotechnology Applied Microbiology	975
+Plant sciences	984
