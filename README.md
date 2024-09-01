@@ -120,15 +120,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
     <td>Ratatosk</td>
     <td>Hybrid error correction of long-read using colored de Bruijn graphs(use illumina to corrent long-read data)</td>
     <td>https://github.com/DecodeGenetics/Ratatosk</td>
- <tr>
-    <td>MetaBAT2</td>
-    <td>Similarity-based binner with label propagation algorithm</td>
-    <td>https://bitbucket.org/berkeleylab/metabat</td>
- <tr>
-    <td>metaWRAP</td>
-    <td>Similarity-based binner with ensemble learning, integrated MetaBAT2, MaxBin2 and Concoct</td>
-    <td>https://github.com/bxlab/metaWRAP</td>
-  </tr>
+   </tr>
    <tr>
     <td colspan="3">Call varients</td>
    <tr>
@@ -151,15 +143,18 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
       <td>uses CNN to detect and characterize complex structural variants from three-channel similarity images</td>
       <td>https://github.com/xjtu-omics/SVision</td>
     </tr>
+	<tr>
+    <td colspan="3">Transcriptome</td>
+   <tr>
     <tr>
-      <td>antiSMASH</td>
-      <td>Search a genome sequence for secondary metabolite biosynthetic gene clusters (BGCs)</td>
+      <td>Flair2</td>
+      <td>analysis of long-read RNA  data, specializing in isoform detection, quantification, and alternative splicing analysis</td>
       <td>https://antismash.secondarymetabolites.org/</td>
     </tr>
     <tr>
-      <td>BiG-SCAPE</td>
-      <td>Constructs sequence similarity networks of BGCs and groups them into cluster families</td>
-      <td>https://bigscape-corason.secondarymetabolites.org/</td>
+      <td>IsoQuant</td>
+      <td>genome-based analysis of long RNA read</td>
+      <td>https://github.com/ablab/IsoQuant</td>
     </tr>
     <tr>
       <td>PlasFlow</td>
