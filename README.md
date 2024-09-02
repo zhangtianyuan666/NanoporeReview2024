@@ -149,7 +149,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
     <tr>
       <td>Flair2</td>
       <td>analysis of long-read RNA  data, specializing in isoform detection, quantification, and alternative splicing analysis</td>
-      <td>https://antismash.secondarymetabolites.org/</td>
+      <td>https://github.com/BrooksLabUCSC/flair</td>
     </tr>
     <tr>
       <td>IsoQuant</td>
@@ -157,23 +157,64 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
       <td>https://github.com/ablab/IsoQuant</td>
     </tr>
     <tr>
-      <td>PlasFlow</td>
-      <td>Prediction of plasmid sequences in metagenomic contigs</td>
-      <td>https://github.com/smaegol/PlasFlow</td>
+      <td>Pinfish</td>
+      <td>annotate genomes using long-read transcriptomics data</td>
+      <td>https://github.com/nanoporetech/pinfish</td>
     </tr>
     <tr>
-      <td>PhiSpy</td>
-      <td>Finding prophages in bacterial genomes that combines similarity-and composition-based strategies</td>
-      <td>https://github.com/linsalrob/PhiSpy</td>
+      <td>RNAbloom2</td>
+      <td>Reference-free assembly of long-read transcriptome</td>
+      <td>https://github.com/bcgsc/RNA-Bloom</td>
     </tr>
     <tr>
-      <td>Salmon</td>
-      <td>Highly-accurate, transcript-level quantification tools suitable for metagenome</td>
-      <td>https://github.com/COMBINE-lab/salmon</td>
+      <td>Fusionseeker</td>
+      <td>gene fusion caller for long-read transcriptome data</td>
+      <td>https://github.com/Maggi-Chen/FusionSeeker</td>
     </tr>
     <tr>
-      <td>Cd-hit</td>
-      <td>Clusters and compares protein or nucleotide sequences</td>
-      <td>https://github.com/weizhongli/cdhit</td>
+      <td>SUPPA</td>
+      <td>Fast quantification of splicing and differential splicing</td>
+      <td>https://github.com/comprna/SUPPA</td>
+  </tr>
+	<tr>
+      <td>QuantifypolyA</td>
+      <td>quantification of poly (A) sites from 3' end sequencing data</td>
+      <td>https://sourceforge.net/projects/quantifypoly-a/</td>
+  </tr>
+	<tr>
+      <td>Snuupy</td>
+      <td>Protoplasting-free full-length single-nucleus RNA profiling</td>
+      <td>https://github.com/ZhaiLab-SUSTech/snuupy/</td>
+  </tr>
+	<tr>
+      <td>CIRI-long</td>
+      <td>Circular RNA identifier using long-read data</td>
+      <td>https://github.com/bioinfo-biols/CIRI-long</td>
+  </tr>
+	<tr>
+      <td>ScNapBar</td>
+      <td>single-cell Nanopore barcode demultiplexer</td>
+      <td>\https://github.com/dieterich-lab/single-cell-nanopore</td>
+  </tr>
+	<tr>
+    <td colspan="3">Metagenome </td>
+   <tr>
+	<tr>
+      <td>Melon</td>
+      <td>Taxonomic identification and quantification using marker genes</td>
+      <td>https://github.com/xinehc/melon</td>
+  </tr>
+		<tr>
+      <td>Metamaps</td>
+      <td>Read assignment and sample composition estimation</td>
+      <td>https://github.com/DiltheyLab/MetaMaps</td>
+	<tr>
+      <td>Emu</td>
+      <td>Species-level relative abundance estimator for nanopore 16S sequences</td>
+      <td>https://github.com/DiltheyLab/MetaMaps</td>
+	<tr>
+      <td>NanoCLUST</td>
+      <td>a Nextflow pipeline that uses UMAP to cluster and classify full-length 16S rRNA nanopore reads</td>
+      <td>https://github.com/DiltheyLab/MetaMaps</td>
   </tr>
 </table>
