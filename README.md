@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/56b1ff41-7162-45a4-a5c7-74fdd93b1e81)# NanoporeReview2024
+# NanoporeReview2024
 A review of the developments and breakthroughs in nanopore sequencing technology during the past decade
 
 Figure 1
@@ -86,11 +86,11 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
     <td>https://github.com/chanzuckerberg/shasta/releases</td>
    <tr>
     <td>Necat</td>
-    <td>error correction and de-novo assembly of Nanopore noisy reads, particularly for fungi genomes</td>
+    <td>Error correction and de-novo assembly of Nanopore noisy reads, particularly for fungi genomes</td>
     <td>https://github.com/bhattlab/lathe</td>
    <tr>
     <td>Verkko</td>
-    <td>a Snakemake workflow that uses Canu, MBG, GraphAligner and other tools to assemble long-read</td>
+    <td>A Snakemake workflow that uses Canu, MBG, GraphAligner and other tools to assemble long-read</td>
     <td>https://github.com/marbl/verkko</td>
  <tr>
     <td>Canu</td>
@@ -98,11 +98,11 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
     <td>https://github.com/marbl/canu</td>
  <tr>
     <td>NextDenovo</td>
-    <td>long-read assembler focused on generating high-quality assemblies from noisy reads, particularly for large and complex genomes</td>
+    <td>Long-read assembler focused on generating high-quality assemblies from noisy reads, particularly for large and complex genomes</td>
     <td>https://github.com/Nextomics/NextDenovo</td>
  <tr>
     <td>Unicycler</td>
-    <td>a tool for assembling bacterial genomes from short- and long-read</td>
+    <td>A tool for assembling bacterial genomes from short- and long-read</td>
     <td>https://github.com/rrwick/Unicycler</td>
  <tr>
     <td>Trycycler</td>
@@ -126,7 +126,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
    <tr>
     <tr>
       <td>Deepvariant</td>
-      <td>a deep neural network to call genetic variants(SNP, INDEL)</td>
+      <td>A deep neural network to call genetic variants(SNP, INDEL)</td>
       <td>https://github.com/google/deepvariant</td>
     </tr>
     <tr>
@@ -140,7 +140,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
     </tr>
     <tr>
       <td>SVision</td>
-      <td>uses CNN to detect and characterize complex structural variants from three-channel similarity images</td>
+      <td>Uses CNN to detect and characterize complex structural variants from three-channel similarity images</td>
       <td>https://github.com/xjtu-omics/SVision</td>
     </tr>
 	<tr>
@@ -148,17 +148,17 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
    <tr>
     <tr>
       <td>Flair2</td>
-      <td>analysis of long-read RNA  data, specializing in isoform detection, quantification, and alternative splicing analysis</td>
+      <td>Analysis of long-read RNA  data, specializing in isoform detection, quantification, and alternative splicing analysis</td>
       <td>https://github.com/BrooksLabUCSC/flair</td>
     </tr>
     <tr>
       <td>IsoQuant</td>
-      <td>genome-based analysis of long RNA read</td>
+      <td>Genome-based analysis of long RNA read</td>
       <td>https://github.com/ablab/IsoQuant</td>
     </tr>
     <tr>
       <td>Pinfish</td>
-      <td>annotate genomes using long-read transcriptomics data</td>
+      <td>Annotate genomes using long-read transcriptomics data</td>
       <td>https://github.com/nanoporetech/pinfish</td>
     </tr>
     <tr>
@@ -178,7 +178,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
   </tr>
 	<tr>
       <td>QuantifypolyA</td>
-      <td>quantification of poly (A) sites from 3' end sequencing data</td>
+      <td>Quantification of poly (A) sites from 3' end sequencing data</td>
       <td>https://sourceforge.net/projects/quantifypoly-a/</td>
   </tr>
 	<tr>
@@ -193,7 +193,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
   </tr>
 	<tr>
       <td>ScNapBar</td>
-      <td>single-cell Nanopore barcode demultiplexer</td>
+      <td>Single-cell Nanopore barcode demultiplexer</td>
       <td>\https://github.com/dieterich-lab/single-cell-nanopore</td>
   </tr>
 	<tr>
@@ -214,7 +214,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
       <td>https://github.com/DiltheyLab/MetaMaps</td>
 	<tr>
       <td>NanoCLUST</td>
-      <td>a Nextflow pipeline that uses UMAP to cluster and classify full-length 16S rRNA nanopore reads</td>
+      <td>A Nextflow pipeline that uses UMAP to cluster and classify full-length 16S rRNA nanopore reads</td>
       <td>https://github.com/DiltheyLab/MetaMaps</td>
   </tr>
 </table>
