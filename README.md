@@ -2,7 +2,8 @@
 A review of the developments and breakthroughs in nanopore sequencing technology during the past decade
 
 Figure 1
-![Figure1_v2_1](https://github.com/user-attachments/assets/8dd35ba2-df49-47db-ac5e-498df2a3f990)
+![Figure1_v3_1](https://github.com/user-attachments/assets/bf8a2f20-fc58-4507-adcd-13113b09595c)
+
 
 Fig 1. Key Developments in Nanopore Sequencing Over the Past Decade. (A) Overview of the development and release timeline of various nanopore sequencing platforms and kits from 2014 to 2024. Key milestones include the release of MinION, GridION, Flongle, PromethION, and various China’s nanopore platforms, along with major updates in sequencing technology such as the R7.3, R9.4.1, R10, and FLO-PRO004RA (RNA004) flowcells. (B) Schematic representation of the nanopore sequencing mechanism, highlighting the transition from R9.4.1 to R10 flowcells. The R10 flowcells employ a dual reader design. This configuration enhances base-calling accuracy by cross-verifying nucleotide sequences. (C) The sequencing principle of the Chinese sequencers Gseq-500 and AXP-100 employs a Nanopore Sequencing by Synthesis (NSBS) strategy, where the tags are sequenced upon the cleavage of bases during DNA polymerase-driven synthesis of the DNA strand, to determine the nucleotide sequence.
 
