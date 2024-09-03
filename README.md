@@ -218,3 +218,16 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
       <td>https://github.com/DiltheyLab/MetaMaps</td>
   </tr>
 </table>
+
+
+
+Table S2 Unique Features of Nanopore Sequencing in Scientific Applications
+| Unique Application | Unique Features | Limitation | Ongoing Developments |
+|--------------------|-----------------|------------|----------------------|
+| Isoform quantification | Ability to capture full-length isoforms, providing detailed views of transcript diversity | Potential for sequencing errors, especially in repetitive regions. | Enhancement of basecalling algorithms and error correction techniques to improve isoform resolution |
+| Poly(A) tail | Detects and quantifies poly(A) tails, providing insights into mRNA stability and regulation. | Limited accuracy in quantifying very long poly(A) tails. | Development of specialized protocols and software for enhanced poly(A) tail analysis. |
+| Pore-C | Enables long-range contact mapping, facilitating the study of genome architecture and interactions. Supports polyploidy typing and metagenomic binning. | Requires computational tools and resources | Refinement of protocols and bioinformatics tools for better structural resolution |
+| Ultra-long DNA sequencing | Generates complete, gapless genome assemblies, including telomeres and centromeres | Challenges in assembling highly repetitive regions | Improve ultra-long experiments and sequencing methods to obtain longer sequences |
+| RNA modification | Sequence RNA directly without cDNA conversion, preserving RNA modifications. Directly identifies modifications such as methylation and acetylation without the need for chemical treatments | Higher error rates and lower throughput compared to DNA sequencing | Enhancements in nanopore chemistry and software to improve accuracy and throughput |
+| Adaptive sampling | Real-time selective sequencing of regions of interest | Requires sophisticated software and computational resources. | Continued development of adaptive sampling algorithms and integration with other sequencing technologies |
+| On-site | Enables rapid, on-site sequencing in various environments, including remote locations. | Limited availability of portable sequencing devices and consumables | Expansion of portable sequencing platforms and development of robust, field-deployable kits |
