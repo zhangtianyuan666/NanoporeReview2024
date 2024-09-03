@@ -35,6 +35,10 @@ Table 1  Comparison of nanopore sequencing platforms
 | Axbio Biotechnology | AXP100 | May, 2023 | 6.85kg | 100 Gb     | 99%(correct) | 100kb | 1 | Large-scale sequencing, high throughput needs by company | https://www.axbio.cn/products/45.html |
 | Polyseq | PolyseqOne | Jan, 2024     | 1.5kg  | 15-20 Gb   | 97%       | >200kb | 1 | Portable sequencing, field research, low-cost and small-scale sequencing | https://www.polyseq.com/products |
 | BGI research | CycloneSEQ | Sep, 2024     | -      | 50 Gb      | 97%       | >50kb | 1 | Large-scale sequencing, high throughput needs by company | https://doi.org/10.1101/2024.08.19.608720 |
+[^1]: *SmidgION not for sale.
+[^2]: **QNome-9604 is an outdated product that is no longer on sale.
+
+The table presents a comparative analysis of nanopore sequencing platforms offered by several companies. Oxford Nanopore Technologies (ONT) provides a variety of sequencing devices that span from portable to high-throughput, including as MinION, SmidgION, GridION, PromethION 48, Flongle, and PromethION 2. These devices exhibit varying levels of performance across multiple parameters in order to cater to the specific requirements of diverse laboratories and research projects. MinION, a compact sequencing instrument weighing about 450g, is ideal for quick on-site sequencing. The PromethION 48 is a high-capacity instrument capable of running 48 flow units concurrently, making it well-suited for large-scale genome sequencing. Furthermore, Qitan Technology, Geneus Tech, Axbio Biotechnology, Polyseq and BGI research have introduced their own Chinese nanopore sequencing technologies. These devices also possess distinct attributes in terms of performance, precision, and application domains, hence enhancing the variety of options available in the market.
 
 Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
 <table>
