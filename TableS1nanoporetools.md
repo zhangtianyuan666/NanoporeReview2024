@@ -178,7 +178,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
 	<tr>
       <td>ScNapBar</td>
       <td>Single-cell Nanopore barcode demultiplexer</td>
-      <td>\https://github.com/dieterich-lab/single-cell-nanopore</td>
+      <td>https://github.com/dieterich-lab/single-cell-nanopore</td>
   </tr>
 	<tr>
     <td colspan="3">Metagenome </td>
