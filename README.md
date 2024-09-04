@@ -2,7 +2,7 @@
 A review of the developments and breakthroughs in nanopore sequencing technology during the past decade
 
 Figure 1
-![Figure1_v3_1](https://github.com/user-attachments/assets/bf8a2f20-fc58-4507-adcd-13113b09595c)
+![Figure1_v3_1](https://github.com/user-attachments/assets/82e51d23-18e0-4531-a491-b79549bb7e61)
 
 
 Fig 1. Key Developments in Nanopore Sequencing Over the Past Decade. (A) Overview of the development and release timeline of various nanopore sequencing platforms and kits from 2014 to 2024. Key milestones include the release of MinION, GridION, Flongle, PromethION, and various China’s nanopore platforms, along with major updates in sequencing technology such as the R7.3, R9.4.1, R10, and FLO-PRO004RA (RNA004) flowcells. (B) Schematic representation of the nanopore sequencing mechanism, highlighting the transition from R9.4.1 to R10 flowcells. The R10 flowcells employ a dual reader design. This configuration enhances base-calling accuracy by cross-verifying nucleotide sequences. (C) The sequencing principle of the Chinese sequencers Gseq-500 and AXP-100 employs a Nanopore Sequencing by Synthesis (NSBS) strategy, where the tags are sequenced upon the cleavage of bases during DNA polymerase-driven synthesis of the DNA strand, to determine the nucleotide sequence.
@@ -36,6 +36,7 @@ Table 1  Comparison of nanopore sequencing platforms
 | Axbio Biotechnology | AXP100 | May, 2023 | 6.85kg | 100 Gb     | 99%(correct) | 100kb | 1 | Large-scale sequencing, high throughput needs by company | https://www.axbio.cn/products/45.html |
 | Polyseq | PolyseqOne | Jan, 2024     | 1.5kg  | 15-20 Gb   | 97%       | >200kb | 1 | Portable sequencing, field research, low-cost and small-scale sequencing | https://www.polyseq.com/products |
 | BGI research | CycloneSEQ | Sep, 2024     | -      | 50 Gb      | 97%       | >50kb | 1 | Large-scale sequencing, high throughput needs by company | https://doi.org/10.1101/2024.08.19.608720 |
+ 
  *SmidgION not for sale.
  **QNome-9604 is an outdated product that is no longer on sale.
 
@@ -99,7 +100,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
     <td>https://github.com/marbl/Winnowmap</td>
    <tr>
     <td>NGMLR</td>
-    <td>align long-read to a reference genome </td>
+    <td>Align long-read to a reference genome </td>
     <td>https://github.com/philres/ngmlr</td>
    <tr>
     <td colspan="3">Genome assembly</td>
