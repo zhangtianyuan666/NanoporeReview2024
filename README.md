@@ -3,12 +3,12 @@ Table  Comparison of nanopore sequencing platforms
 | Company | Sequencer | Released Time | Weight | Throughput | Accuracy | Read Length | Runs | Suitable Scenarios | Website |
 |---------|-----------|---------------|--------|------------|----------|-------------|------|--------------------|---------|
 | ONT     | MinION    | Feb, 2014     | 450g   | 30 Gb      | Q28(R10.4.1) | >20kb | 1 | Portable sequencing, field research, small-scale sequencing | https://nanoporetech.com/products/sequence/minion |
-| ONT     | SmidgION* | May, 2016     | -      | <1 Gb      | Q28(R10.4.1) | Mb    | 1 | Not avaliable | https://nanoporetech.com/zh/products/sequence/smidgion |
+| ONT     | SmidgION | May, 2016     | -      | <1 Gb      | Q28(R10.4.1) | Mb    | 1 | Not avaliable | https://nanoporetech.com/zh/products/sequence/smidgion |
 | ONT     | GridION   | Feb, 2017     | 11kg   | 150 Gb*5   | Q28(R10.4.1) | Mb    | 5 | Medium-scale sequencing, lab-based research | https://nanoporetech.com/products/sequence/gridion |
 | ONT     | PromethION 48 | May, 2018 | 28kg   | 290 Gb*48 | Q28(R10.4.1) | Mb    | 48 | Large-scale sequencing, high throughput needs by company | https://nanoporetech.com/products/sequence/promethion-24-48 |
 | ONT     | Flongle   | March, 2019   | 20g    | 1-3 Gb     | Q28(R10.4.1) | Mb    | 1 | Portable sequencing, low-cost sequencing, small-scale experiments | https://nanoporetech.com/products/sequence/flongle |
 | ONT     | PromethION 2 | Oct, 2022 | 1.5kg  | 290 Gb*2   | Q28(R10.4.1) | Mb    | 2 | Medium-scale sequencing, lab-based research | https://nanoporetech.com/products/sequence/promethion-2 |
-| Qitan Technology | QNome-9604** | Sep, 2020 | -      | 1.4 Gb     | 80%       | 150kb | 1 | Not avaliable | https://www.qitantech.com/ |
+| Qitan Technology | QNome-9604 | Sep, 2020 | -      | 1.4 Gb     | 80%       | 150kb | 1 | Not avaliable | https://www.qitantech.com/ |
 | Qitan Technology | QNome-3841  | Dec, 2021     | 800g   | 5 Gb       | 90%       | Mb    | 1 | Portable sequencing, field research, low-cost and small-scale sequencing | https://www.qitantech.com/products/sequencer |
 | Qitan Technology | QNome-3841hex | June, 2022 | 10kg  | 5 Gb*6     | 90%       | Mb    | 6 | Medium-scale sequencing, lab-based research | https://www.qitantech.com/products/sequencer |
 | Qitan Technology | QPursue-6k  | Aug, 2023     | -      | 60 Gb      | 97%       | Mb    | 1 | Medium-scale sequencing, lab-based research | https://www.qitantech.com/ |
@@ -16,13 +16,11 @@ Table  Comparison of nanopore sequencing platforms
 | Geneus-Tech | Gseq500 | Dec, 2022     | 20kg   | 40 Gb      | 99.9%(correct)   | >20kb | 1 | Large-scale sequencing, high throughput needs by company | http://www.geneus-tech.com/proddetail.aspx?id=1 |
 | Axbio Biotechnology | AXP100 | May, 2023 | 6.85kg | 100 Gb     | 99%(correct) | 100kb | 1 | Large-scale sequencing, high throughput needs by company | https://www.axbio.cn/products/45.html |
 | Polyseq | PolyseqOne | Jan, 2024     | 1.5kg  | 15-20 Gb   | 97%       | >200kb | 1 | Portable sequencing, field research, low-cost and small-scale sequencing | https://www.polyseq.com/products |
-| BGI research | CycloneSEQ | Sep, 2024     | -      | 50 Gb      | 97%       | >50kb | 1 | Large-scale sequencing, high throughput needs by company | https://doi.org/10.1101/2024.08.19.608720 |
+| BGI research | CycloneSEQ-WT02 | Sep, 2024     | -      | 50 Gb*2      | 97%       | Mb | 2 | Large-scale sequencing, high throughput needs by company | https://doi.org/10.1101/2024.08.19.608720 |
 | Polyseq  | PolyseqHive| Dec, 2024     | -      | 152 Gb      | 97%       | >50kb | 6 |  Medium-scale sequencing, lab-based research | https://www.polyseq.com/sy |
 | BGI research | G400-ER | March, 2025 | 3.50kg | 182.61Gb | 97%  |Mb | 1  | Large-scale sequencing, high throughput needs by company  |   https://www.mgitech.cn/Home/Products/instruments_info/id/88.html |
 | Genues-Tech | G-seq1M | April, 2025 | - | 240 Gb | 99.9%(correct) | >60kb | 1 | Large-scale sequencing, high throughput needs by company | http://geneus-tech.com/proddetail.aspx?id=5
  
- *SmidgION not for sale.
- **QNome-9604 is an outdated product that is no longer on sale.
 
 
 
