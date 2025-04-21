@@ -21,7 +21,7 @@ Table  Comparison of nanopore sequencing platforms
 | BGI research | G400-ER | March, 2025 | 3.50kg | 182.61Gb | 97%  |Mb | 1  | Large-scale sequencing, high throughput needs by company  |   https://www.mgitech.cn/Home/Products/instruments_info/id/88.html |
 | Genues-Tech | G-seq1M | April, 2025 | - | 240 Gb | 99.9%(correct) | >60kb | 1 | Large-scale sequencing, high throughput needs by company | http://geneus-tech.com/proddetail.aspx?id=5
  
-
+Please Cite: Zhang T, Li H, Jiang M, et al. Nanopore sequencing: Flourishing in its teenage years[J]. Journal of Genetics and Genomics, 2024.
 
 
 
