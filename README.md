@@ -17,7 +17,8 @@ Table  Comparison of nanopore sequencing platforms
 | Axbio Biotechnology | AXP100 | May, 2023 | 6.85kg | 100 Gb     | 99%(correct) | 100kb | 1 | Large-scale sequencing, high throughput needs by company | https://www.axbio.cn/products/45.html |
 | Polyseq | PolyseqOne | Jan, 2024     | 1.5kg  | 15-20 Gb   | 97%       | >200kb | 1 | Portable sequencing, field research, low-cost and small-scale sequencing | https://www.polyseq.com/products |
 | BGI research | CycloneSEQ | Sep, 2024     | -      | 50 Gb      | 97%       | >50kb | 1 | Large-scale sequencing, high throughput needs by company | https://doi.org/10.1101/2024.08.19.608720 |
-| BGI research | G400-ER | March, 2025 | - | 182.61Gb | 97%  |  |   |   |    | Large-scale sequencing, high throughput needs by company
+| Polyseq  | PolyseqHive| Dec, 2024     | -      | 152 Gb      | 97%       | >50kb | 6 |  Medium-scale sequencing, lab-based research | https://www.polyseq.com/sy |
+| BGI research | G400-ER | March, 2025 | 3.50kg | 182.61Gb | 97%  |  |   | Mb  |    | Large-scale sequencing, high throughput needs by company | https://www.mgitech.cn/Home/Products/instruments_info/id/88.html |
 | Genues-Tech | G-seq1M | April, 2025 | - | 240 Gb | 99.9%(correct) | >60kb | 1 | Large-scale sequencing, high throughput needs by company | http://geneus-tech.com/proddetail.aspx?id=5
  
  *SmidgION not for sale.
