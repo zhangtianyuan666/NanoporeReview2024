@@ -1,4 +1,6 @@
+# Notice
 Nanopore platforms【Continuous update!!  Latest update 20250420】
+
 Table  Comparison of nanopore sequencing platforms
 | Company | Sequencer | Released Time | Weight | Throughput | Accuracy | Read Length | Runs | Suitable Scenarios | Website |
 |---------|-----------|---------------|--------|------------|----------|-------------|------|--------------------|---------|
